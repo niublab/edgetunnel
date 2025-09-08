@@ -5183,7 +5183,7 @@ async function nginx() {
 	<p>For online documentation and support please refer to
 	<a href="http://nginx.org/">nginx.org</a>.<br/>
 	Commercial support is available at
-	<a href="http://nginx.com/">nginx.com</a>.</p>
+	<a href="http://example.com/">nginx.com</a>.</p>
 	
 	<p><em>Thank you for using nginx.</em></p>
 	</body>
@@ -7187,4 +7187,5 @@ function config_Html(token = "test", proxyhost = "") {
 </html>`;
 
     return html;
+
 }
